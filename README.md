@@ -1,6 +1,6 @@
 # Hiho.
 
-Please add your suggestions/feedback to the [Issues](https://github.com/flessendop/simpletar-issues/issues), thanks.🤘🤘🤘
+Please add your suggestions/feedback regarding [Simpletar](https://vincent.wtf) to the [Issues](https://github.com/flessendop/simpletar-issues/issues), thanks.🤘🤘🤘
 
 ## Todo
 - Animation Support?
